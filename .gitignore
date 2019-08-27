@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+coverage
+.DS_Store
+dist
+data
+newrelic*
+# webstorm
+.idea/
